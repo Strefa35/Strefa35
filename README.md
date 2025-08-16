@@ -4,7 +4,7 @@ Experienced Software Engineering Expert with a demonstrated history of working i
 Strong engineering professional with a M.Sc. in Electrical Engineering – December 1996 focused in Faculty of Electrical Engineering, Field of Digital Measuring Systems from Zielona Gora University of Technology.
 
 ## Skills, knowledge and experience
-- Software engineering expert with more than 20 years of experience,
+- Software engineering expert with more than 25 years of experience,
 - Deep knowledge of the standards, protocols and deployments of Conditional Access systems (Nagra, Conax, Irdeto, NDS, Latens, Viaccess, Verimatrix, BetaCrypt),
 - Experience with embedded software development in a multi-threaded environment,
 - Software testing and continuous integration,
