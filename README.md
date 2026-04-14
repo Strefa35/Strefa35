@@ -8,6 +8,8 @@ Shipped production C/C++ for **Liberty Global** (8M+ cable TV subscribers across
 **SLB/Schlumberger** (Azure IoT Edge gateway fleet),
 and **Amazon Web Services** (Linux modernization / Lift & Shift).
 
+Before joining EPAM, spent **20 years at ADB Polska** building the CA/DRM stack that powered cable TV across Europe — integrating and validating 7+ Conditional Access systems (Nagra, Conax, Irdeto, Latens, Viaccess, Verimatrix, BetaCrypt) and DRM platforms (Nagra PRM, Marlin, MS DRM) on embedded STB hardware. Designed the generic CA solution in Open Embedded RDK for Liberty Global, extended DVB CI stack to DVB CI+, and developed Smart Card low-level drivers (ISO/IEC 7816) on Broadcom chips from the ground up.
+
 Author of **3 patents** in Conditional Access systems
 · EP 1638006 B1 · US 2006/0064592 A1 · US 2006/0062387 A1
 
