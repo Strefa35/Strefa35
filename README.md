@@ -1,25 +1,84 @@
-# I’m Arkadiusz Czerwinski (Arek)
+# Arkadiusz Czerwinski — Chief Software Engineer
 
-Experienced Software Engineering Expert with a demonstrated history of working in the consumer electronics industry. Deep knowledge of content protection systems for broadcast and IPTV (CA & DRM Systems), Embedded Software, Device Drivers, C, and C++. Author of three patents in the field of Conditional Access systems.
-Strong engineering professional with a M.Sc. in Electrical Engineering – December 1996 focused in Faculty of Electrical Engineering, Field of Digital Measuring Systems from Zielona Gora University of Technology.
+**30 years** delivering embedded systems, CA/DRM solutions, and IoT platforms —
+from broadcast and smart TV to oil & gas and cloud domains.
 
-## Skills, knowledge and experience
-- Software engineering expert with more than 25 years of experience,
-- Deep knowledge of the standards, protocols and deployments of Conditional Access systems (Nagra, Conax, Irdeto, NDS, Latens, Viaccess, Verimatrix, BetaCrypt),
-- Experience with embedded software development in a multi-threaded environment,
-- Software testing and continuous integration,
-- Very good problem solving skills, experience with software debugging, profiling and bug fixing,
-- Experience in Open Embedded, RDK-V, Yocto,
-- Experience with team developments methods and workflows (git, jira, gerrit, jenkins, aws),
-- Ability of reading and writing technical documentation,
-- Ability to quickly read into new information and specifications,
-- Ability to make justified decisions quickly,
-- Self-motivation, hands-on approach on all activities,
-- Understanding of Agile & Scrum methodology of software development
-- Good communication skills, experience with cooperation with partners, customers and remote co-workers,
-- Programming languages: C, C++.
+Shipped production C/C++ for **Liberty Global** (8M+ cable TV subscribers across Europe),
+**Vizio** (HAL Picture platform, 29 months on-site Dallas, TX),
+**SLB/Schlumberger** (Azure IoT Edge gateway fleet),
+and **Amazon Web Services** (Linux modernization / Lift & Shift).
 
-<!---
-Strefa35/Strefa35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Author of **3 patents** in Conditional Access systems
+· EP 1638006 B1 · US 2006/0064592 A1 · US 2006/0062387 A1
+
+---
+
+## 🔧 What I build
+
+- **Embedded platforms** — ESP32, ARM, Linux, Snapcraft, Yocto, RDK
+- **CA / DRM systems** — Nagra, Conax, Irdeto, OpenCDM, Widevine, PlayReady, ClearKey, DNSSEC
+- **IoT solutions** — Azure IoT Edge, MQTT, Redis Streams, Docker, Google Protobuf
+- **Developer tooling** — DTV stream analysis (PidExtractor, TsReader), MQTT monitoring, async PDF processing
+
+---
+
+## 🛠 Core stack
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++20-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_IoT_Edge-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🤖 AI-augmented development
+
+I use AI tooling daily to accelerate architecture decisions, code review, and documentation:
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro_(AWS)-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+**Certifications (2026):**
+- Anthropic: Claude 101 · Claude Code in Action
+- AWS: Agentic AI on AWS · Amazon Bedrock Getting Started · Kiro Getting Started · Engagement Security Training
+
+---
+
+## 📂 Active projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [esp-platform](https://github.com/Strefa35/esp-platform) | Modular ESP32/S2/S3 platform — solar energy automation for water heating | C, C++, ESP-IDF, FreeRTOS, MQTT |
+| [mqtt-parser](https://github.com/Strefa35/mqtt-parser) | Dockerized MQTT monitoring tool with live feed, rules engine and web UI | TypeScript, Node.js, React, SQLite, Docker |
+| [async-pdf-proc](https://github.com/Strefa35/async-pdf-proc) | Async PDF processing with AI summarization (Gemini 2.5 Flash, Mistral) | Python, FastAPI, Redis Streams, React |
+| [plc-dashboard](https://github.com/Strefa35/plc_dashboard) | Real-time PLC data monitoring and visualization dashboard | TypeScript, React, Docker |
+
+---
+
+## 📁 Other projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [esp-drivers](https://github.com/Strefa35/esp-drivers) | Hardware driver library for ESP32 platform (submodule of esp-platform) | C, C++, ESP-IDF, CMake |
+| [PidExtractor](https://github.com/Strefa35/PidExtractor) | CLI tool for filtering selected PIDs from DVB transport stream files | C++, CMake, DVB |
+| [TsReader](https://github.com/Strefa35/TsReader) | CLI tool for parsing and inspecting DVB transport stream file contents | C++, CMake, DVB |
+| [ha-docker](https://github.com/Strefa35/ha-docker) | Docker Compose setup for Home Assistant home automation platform | Docker, Home Assistant |
+
+---
+
+## 📍 Location & availability
+
+**Frisco, TX, USA** · Open to senior / staff embedded and IoT roles in the Dallas area.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arkadiusz-czerwinski-40646645)
+
+---
+
+*"A proven track record of shipping high-quality software on embedded platforms."*
